@@ -48,3 +48,19 @@ The goal was to conduct an open-ended exploratory data analysis (EDA) to uncover
 ---
 
 ## 📁 Repository Structure
+
+
+---
+
+## 🚀 Next Steps
+- Perform statistical testing on neighborhood price differences
+- Incorporate health equity index data
+- Develop regression modeling
+- Build an interactive dashboard
+
+---
+
+## 👩‍💻 Author
+Mary Kane  
+Operations & Data Analyst  
+Bilingual (English–Spanish)
