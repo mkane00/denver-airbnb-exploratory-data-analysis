@@ -1,5 +1,3 @@
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
-
 # Denver Airbnb Market Analysis
 
 Exploratory data analysis of Airbnb listings in Denver focusing on pricing patterns, demand, and spatial distribution.
