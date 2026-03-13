@@ -14,8 +14,7 @@ Exploratory data analysis of Airbnb listings in Denver focusing on pricing patte
 https://public.tableau.com/views/DenverAirbnbMarketAnalysisFinal/AIRBNBDENVERANALYSIS
 
 ## Dashboard Preview
-
-![Dashboard]Airbnb Denver Market Analysis DASHBOARD.png
+Airbnb Denver Market Analysis DASHBOARD.png
 
 ## Key Insights
 
